@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-
-- ⚡ I’m currently working on Jetstream Video Course in Udemy. It's live in the en of the Agust.
-- 🌱 I'll publish an update for TailAdmin about composer package version
-- 💬 Ask me about Vuejs and Tailwindcss, maybe Laravel
+11.Sep.2022
+- ⚡ I publised Jetstream Video Course on Udemy. [Click to join the course](https://www.udemy.com/course/jetstream-ile-vuejs-destekli-laravel-uygulamalar-gelistirme/)
+- 🌱 I'm working on TailAdmin about composer package version
+- ⚡ I’m developing a quality web app for small companies. I'm going to publish first release in December 2022 [Kalite Sihirbazı](https://github.com/sinan-aydogan/KaliteSihirbazi)
 
 12.Agu.2022
 
