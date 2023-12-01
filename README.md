@@ -1,7 +1,9 @@
 
-![10 Kasım - Yaşa Mustafa Kemal Paşa](https://media.licdn.com/dms/image/C4D22AQGOVnUS8wpBnw/feedshare-shrink_2048_1536/0/1668058647785?e=1702512000&v=beta&t=UMtnU6qCBi3ArBTKN4trPaFuWJNlEQhkLFJB4EXrQNw)
-
 ### Hi there 👋
+01.Dec.2023
+- 🔭 I'm working on Mqtt and IoT Devices
+- 🌱 I want to develope a admin framework for ERP, MRP, CRM or Cloud systems by TailAdmin
+- ™️  The name TailAdmin was registered 🚀  as an official brand name through patent offices. The project will soon receive a version update 🔔 for Laravel 10, vitejs and dockerize support.
 
 11.Sep.2022
 - ⚡ I publised Jetstream Video Course on Udemy. [Click to join the course](https://www.udemy.com/course/jetstream-ile-vuejs-destekli-laravel-uygulamalar-gelistirme/)
